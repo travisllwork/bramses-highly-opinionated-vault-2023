@@ -5,24 +5,8 @@
       "path": "README.md"
     },
     {
-      "basename": "The Ancient Japanese Technique That Produces Lumber Without Cutting Trees",
-      "path": "Readwise-Example/Articles Test/The Ancient Japanese Technique That Produces Lumber Without Cutting Trees.md"
-    },
-    {
-      "basename": "Screenshot 2022-12-17 17-18-40",
-      "path": "_tutorial/Attachments/Screenshot 2022-12-17 17-18-40.png"
-    },
-    {
       "basename": "202212151455",
       "path": "202212151455.md"
-    },
-    {
-      "basename": "202212090136",
-      "path": "202212090136.md"
-    },
-    {
-      "basename": "202212090137",
-      "path": "202212090137.md"
     },
     {
       "basename": "202212122239",
@@ -31,6 +15,46 @@
     {
       "basename": "202212120002",
       "path": "202212120002.md"
+    },
+    {
+      "basename": "202212090137",
+      "path": "202212090137.md"
+    },
+    {
+      "basename": "202212090136",
+      "path": "202212090136.md"
+    },
+    {
+      "basename": "Workout",
+      "path": "Templates/Workout.md"
+    },
+    {
+      "basename": "Recipes",
+      "path": "Templates/Recipes.md"
+    },
+    {
+      "basename": "Quarterly",
+      "path": "Templates/Quarterly.md"
+    },
+    {
+      "basename": "People",
+      "path": "Templates/People.md"
+    },
+    {
+      "basename": "Daily",
+      "path": "Templates/Daily.md"
+    },
+    {
+      "basename": "Hotkeys",
+      "path": "_tutorial/Hotkeys.md"
+    },
+    {
+      "basename": "The Ancient Japanese Technique That Produces Lumber Without Cutting Trees",
+      "path": "Readwise-Example/Articles Test/The Ancient Japanese Technique That Produces Lumber Without Cutting Trees.md"
+    },
+    {
+      "basename": "Screenshot 2022-12-17 17-18-40",
+      "path": "_tutorial/Attachments/Screenshot 2022-12-17 17-18-40.png"
     },
     {
       "basename": "Resources",
@@ -63,10 +87,6 @@
     {
       "basename": "Tasks",
       "path": "Computed/Tasks.md"
-    },
-    {
-      "basename": "Hotkeys",
-      "path": "_tutorial/Hotkeys.md"
     },
     {
       "basename": "To Process",
@@ -149,10 +169,6 @@
       "path": "Templates/Zettelkasten Note.md"
     },
     {
-      "basename": "People",
-      "path": "Templates/People.md"
-    },
-    {
       "basename": "Computed",
       "path": "Computed/Computed.md"
     },
@@ -167,10 +183,6 @@
     {
       "basename": "Recipes",
       "path": "Databases/Recipes/Recipes.md"
-    },
-    {
-      "basename": "Workout",
-      "path": "Templates/Workout.md"
     },
     {
       "basename": "Instant Pot Fried Rice",
